@@ -27,3 +27,8 @@ location — A city name, zip code, or other location search term.
 lat — A specific latitude. If used, you must also send long and must not send location.
 long — A specific longitude. If used, you must also send lat and must not send location.
 full_time — If you want to limit results to full time positions set this parameter to ‘true’.
+
+Roadmap to the following project;
+
+1. Getting familiar with https and url
+2. dataset exploration
